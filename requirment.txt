@@ -1,3 +1,2 @@
-pandas
-numpy
-sklearn
+github account
+git cli

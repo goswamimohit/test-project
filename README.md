@@ -1,4 +1,5 @@
-## This is my first file.
-## we will learn
-## this is developer branch
-## this is developer 2 branch
+## Top 15 Everyday Command Used By Data Scientist
+    
+    1. Intilizeing GitHub Repositeory in local Folder
+    
+<img src = "images\git-init.png">
